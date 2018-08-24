@@ -3,6 +3,8 @@
 
 
 仿照电视猫tv的seekbar，效果图如下：
-！[参考图] （https://github.com/maxence-sam/TVSeekBar/blob/master/src/main/res/mipmap-hdpi/device-2018-08-24-145645.png）
+
+
+![参考](https://github.com/maxence-sam/TVSeekBar/blob/master/src/main/res/mipmap-hdpi/device-2018-08-24-145645.png)
 实际中的效果如下
-  ![](https://img-blog.csdn.net/20180824161425902?watermark/2/text/aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3UwMTI1NjAzNjk=/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70)
+  ![参考2](https://img-blog.csdn.net/20180824161425902?watermark/2/text/aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3UwMTI1NjAzNjk=/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70)
