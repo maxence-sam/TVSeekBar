@@ -3,4 +3,4 @@
 
 
 仿照电视猫tv的seekbar，效果图如下：
- [图片]
+![参考图][https://github.com/maxence-sam/TVSeekBar/blob/master/src/main/res/mipmap-hdpi/device-2018-08-24-145645.png]
